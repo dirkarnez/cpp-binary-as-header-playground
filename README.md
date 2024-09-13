@@ -2,6 +2,7 @@ cpp-binary-as-header-playground
 ===============================
 ### Using
 - [AntumDeluge/bin2header: Binary file converter to C/C++ source header](https://github.com/AntumDeluge/bin2header)
+  - [bin2header](https://antumdeluge.github.io/bin2header/reference/bin2header.1.html)
 
 ### Tools
 - [Frhed Portable (hex editor) | PortableApps.com](https://portableapps.com/apps/development/frhed_portable)
