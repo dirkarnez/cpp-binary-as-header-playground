@@ -1,5 +1,4 @@
-portaudio-playground
-====================
-
+cpp-binary-as-header-playground
+===============================
 ### Using
-- [dirkarnez/portaudio-prebuilt](https://github.com/dirkarnez/portaudio-prebuilt)
+- [AntumDeluge/bin2header: Binary file converter to C/C++ source header](https://github.com/AntumDeluge/bin2header)
