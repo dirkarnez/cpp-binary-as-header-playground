@@ -10,3 +10,6 @@ cpp-binary-as-header-playground
 ### Tools
 - [Frhed Portable (hex editor) | PortableApps.com](https://portableapps.com/apps/development/frhed_portable)
 - `C:\\Windows\System32\fc.exe /b {file a} {file b}`
+
+
+<!-- Security scan triggered at 2026-09-15 09:37:58 -->
